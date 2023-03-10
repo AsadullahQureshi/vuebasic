@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" name="Asad" jobtitle="Full Stack Developer"/>
+      <HelloWorld msg="You did it!" name="Asad" jobtitle="Full Stack Developer" salary='30000' />
     </div>
   </header>
 
